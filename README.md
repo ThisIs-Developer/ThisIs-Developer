@@ -9,4 +9,4 @@ ThisIs-Developer/ThisIs-Developer is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-![smiling-boy-sitting-at-laptop-and-learning-coding-vector-23502739](https://user-images.githubusercontent.com/109382325/205457579-fc139437-cdeb-4f57-b759-79b39d092d9e.jpg)
+![gh-header-image-cropped](https://user-images.githubusercontent.com/109382325/205457595-018a9b35-709d-4099-8f17-8d80b5e752d1.jpg)
