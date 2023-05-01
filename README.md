@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA,C++,Python,BNLP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ThisIs-Developer](https://github.com/ThisIs-Developer)
+- 👨‍💻 All of my projects are available at [https://baivabsarkar.netlify.app/](My Website)
 
 - 💬 Ask me about **#web, #coding, #design, #marketing, and #productivity**
 
