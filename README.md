@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **DSA,C++,Python,BNLP**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://baivabsarkar.netlify.app/)
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://baivabsarkar.netlify.app/)**
 
-- 💬 Ask me about **#web, #coding, #design, #marketing, and #productivity**
+- 💬 Ask me about **#C/C++, #Python, #opensource, and #development**
 
-- 📫 How to reach me **baivabsarkar@gmail.coom**
+- 📫 How to reach me **[Connect me](baivabsarkar@gmail.coom)**
 
 - ⚡ Fun fact **A passionate coder from India**
 
