@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **#C/C++, #Python, #opensource, and #development**
 
-- 📫 How to reach me **[Connect me](baivabsarkar@gmail.coom)**
+- 📫 How to reach me **baivabsarkar@gmail.coom**
 
 - ⚡ Fun fact **A passionate coder from India**
 
