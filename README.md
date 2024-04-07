@@ -22,7 +22,7 @@ He/Him
 An enthusiastic individual who savors culinary adventures and occasionally delves into the world of coding. 😉
 
 ### 📫 How to reach me?
-- [Twitter](https://dev.to/thisisdeveloper) 
+- [Twitter](https://twitter.com/thisisdeveloper) 
 - [LinkedIn](https://www.linkedin.com/in/baivabsarkar/)
 - [Dev](https://dev.to/thisisdeveloper)
 
