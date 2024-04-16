@@ -25,6 +25,7 @@ An enthusiastic individual who savors culinary adventures and occasionally delve
 ### 📫 How to reach me?
 - [Twitter](https://twitter.com/thisisdeveloper) 
 - [LinkedIn](https://www.linkedin.com/in/baivabsarkar/)
+- [Medium](https://medium.com/@baivabsarkar)
 - [Dev](https://dev.to/thisisdeveloper)
 
 <img src="https://streak-stats.demolab.com?user=ThisIs-Developer" />
