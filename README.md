@@ -8,6 +8,7 @@ He/Him
 
 ### 🌱 What do I do and What have I done? 
 
+- **[Simon}(https://github.com/ThisIs-Developer/Simon)**: A digital version of the classic memory game!🎮 Repeat the sequence of lights and sounds to win. Can you beat your high score? 🌟
 - **[Markdown Viewer](https://github.com/ThisIs-Developer/Markdown-Viewer)**: Developed a web app for previewing and modifying Markdown content, as well as performing tasks such as importing and exporting.
 - **[Sleep Prevention Device](https://github.com/ThisIs-Developer/Sleep-Prevention-Device)**: Developed a device using *Arduino Nano* and *MPU6050 gyro* to prevent sleep-related issues.
 - **[Sentiment Analysis of COVID-19 Tweets](https://github.com/ThisIs-Developer/Sentiment-Analysis-of-Covid-19-Tweets)**: Analyzed sentiments in *COVID-19 tweets* for public perception.
