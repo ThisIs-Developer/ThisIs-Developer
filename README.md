@@ -1,11 +1,6 @@
-<img src="assets/cover.png" alt="Cover Photo" />
+I am _Baivab Sarkar_, an Aspiring **Software Engineer** with 2 years of **Java** experience and strong **JavaScript** proficiency. I am dedicated to leveraging **frontend** skills and agile methodologies for effective contributions to dynamic software projects.
 
-# Hello, Geeks! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="40" height="40" />
-
-I am _Baivab Sarkar_, a skilled media and communication professional with a Bachelor of Technology focused in Computer Science and Engineering from _JIS College of Engineering, West Bengal_. I am proficient in _Java, Front-end Development, Machine learning, Javascript, and its frameworks_. ⚡ I'm heavily involved in college activities like _clubs, hackathons, fests, and workshops,_ having helped build numerous communities from the ground up.
-
-### 😄 Pronouns
-He/Him
+Please find me on [LinkedIn](https://www.linkedin.com/in/baivabsarkar/) for a more detailed description of my full work experience, education and certification. You can get in touch with me by email at baivabsarkar@gmail.com.
 
 ### 🌱 What do I do and What have I done? 
 
