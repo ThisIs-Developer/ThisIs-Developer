@@ -6,24 +6,28 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/baivabsarkar/) for a mo
 
 <p align="left">
   <a href="https://dev.to/thisisdeveloper" target="_blank">
-    <img src="/assets/devto.svg" alt="Dev.to" width="30" height="30"/>
+    <img src="/assets/devto.svg" alt="Dev.to" width="30" height="30" style="margin-right: 10px;"/>
   </a>
   <a href="https://gitlab.com/ThisIs-Developer" target="_blank">
-    <img src="/assets/gitlab.svg" alt="GitLab" width="30" height="30"/>
+    <img src="/assets/gitlab.svg" alt="GitLab" width="30" height="30" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.linkedin.com/in/baivabsarkar/" target="_blank">
-    <img src="/assets/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+    <img src="/assets/linkedin.svg" alt="LinkedIn" width="30" height="30" style="margin-right: 10px;"/>
   </a>
   <a href="https://medium.com/@baivabsarkar" target="_blank">
-    <img src="/assets/medium.svg" alt="Medium" width="30" height="30"/>
+    <img src="/assets/medium.svg" alt="Medium" width="30" height="30" style="margin-right: 10px;"/>
   </a>
   <a href="https://stackoverflow.com/users/1234567/thisis-developer" target="_blank">
-    <img src="/assets/stack-overflow.svg" alt="Stack Overflow" width="30" height="30"/>
+    <img src="/assets/stack-overflow.svg" alt="Stack Overflow" width="30" height="30" style="margin-right: 10px;"/>
   </a>
   <a href="https://twitter.com/thisisdeveloper" target="_blank">
-    <img src="/assets/twitter-x.svg" alt="Twitter" width="30" height="30"/>
+    <img src="/assets/twitter-x.svg" alt="Twitter" width="30" height="30" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://huggingface.co/ThisIs-Developer" target="_blank">
+    <img src="/assets/hugging-face.svg" alt="Hugging Face" width="30" height="30" style="margin-right: 10px;"/>
   </a>
 </p>
+
 
 
 ## My Opensource Story
