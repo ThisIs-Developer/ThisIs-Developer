@@ -6,25 +6,25 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/baivabsarkar/) for a mo
 
 <p align="left">
   <a href="https://dev.to/thisisdeveloper" target="_blank">
-    <img src="/assets/devto.svg" alt="Dev.to" width="30" height="30" style="margin-right: 10px;"/>
-  </a>
+    <img src="/assets/devto.svg" alt="Dev.to" width="30" height="30"/>
+  </a>&nbsp;&nbsp;
   <a href="https://gitlab.com/ThisIs-Developer" target="_blank">
-    <img src="/assets/gitlab.svg" alt="GitLab" width="30" height="30" style="margin-right: 10px;"/>
-  </a>
+    <img src="/assets/gitlab.svg" alt="GitLab" width="30" height="30"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/baivabsarkar/" target="_blank">
-    <img src="/assets/linkedin.svg" alt="LinkedIn" width="30" height="30" style="margin-right: 10px;"/>
-  </a>
+    <img src="/assets/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>&nbsp;&nbsp;
   <a href="https://medium.com/@baivabsarkar" target="_blank">
-    <img src="/assets/medium.svg" alt="Medium" width="30" height="30" style="margin-right: 10px;"/>
-  </a>
+    <img src="/assets/medium.svg" alt="Medium" width="30" height="30"/>
+  </a>&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/1234567/thisis-developer" target="_blank">
-    <img src="/assets/stack-overflow.svg" alt="Stack Overflow" width="30" height="30" style="margin-right: 10px;"/>
-  </a>
+    <img src="/assets/stack-overflow.svg" alt="Stack Overflow" width="30" height="30"/>
+  </a>&nbsp;&nbsp;
   <a href="https://twitter.com/thisisdeveloper" target="_blank">
-    <img src="/assets/twitter-x.svg" alt="Twitter" width="30" height="30" style="margin-right: 10px;"/>
-  </a>
+    <img src="/assets/twitter-x.svg" alt="Twitter" width="30" height="30"/>
+  </a>&nbsp;&nbsp;
   <a href="https://huggingface.co/ThisIs-Developer" target="_blank">
-    <img src="/assets/hugging-face.svg" alt="Hugging Face" width="30" height="30" style="margin-right: 10px;"/>
+    <img src="/assets/hugging-face.svg" alt="Hugging Face" width="30" height="30"/>
   </a>
 </p>
 
