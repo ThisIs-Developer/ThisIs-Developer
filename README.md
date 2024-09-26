@@ -1,6 +1,9 @@
 I am _Baivab Sarkar_, an Aspiring **Software Engineer** with 2 years of **Java** experience and strong **JavaScript** proficiency. I am dedicated to leveraging **frontend** skills and agile methodologies for effective contributions to dynamic software projects.
 
-Please find me on [LinkedIn](https://www.linkedin.com/in/baivabsarkar/) for a more detailed description of my full work experience, education and certification. You can get in touch with me by email at baivabsarkar@gmail.com.
+Please find me on [LinkedIn](https://www.linkedin.com/in/baivabsarkar/) for a more detailed description of my work experience, education, and certification. You can get in touch with me by email at baivabsarkar@gmail.com.
+
+## Connect with me
+
 
 ## My Opensource Story
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
