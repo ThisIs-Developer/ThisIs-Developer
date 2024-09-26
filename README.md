@@ -3,32 +3,27 @@ I am _Baivab Sarkar_, an Aspiring **Software Engineer** with 2 years of **Java**
 Please find me on [LinkedIn](https://www.linkedin.com/in/baivabsarkar/) for a more detailed description of my work experience, education, and certification. You can get in touch with me by email at baivabsarkar@gmail.com.
 
 ## Connect with me
-
-<p align="left">
-  <a href="https://dev.to/thisisdeveloper" target="_blank">
-    <img src="/assets/devto.svg" alt="Dev.to" width="30" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://gitlab.com/ThisIs-Developer" target="_blank">
-    <img src="/assets/gitlab.svg" alt="GitLab" width="30" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/baivabsarkar/" target="_blank">
-    <img src="/assets/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://medium.com/@baivabsarkar" target="_blank">
-    <img src="/assets/medium.svg" alt="Medium" width="30" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/1234567/thisis-developer" target="_blank">
-    <img src="/assets/stack-overflow.svg" alt="Stack Overflow" width="30" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/thisisdeveloper" target="_blank">
-    <img src="/assets/twitter-x.svg" alt="Twitter" width="30" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://huggingface.co/ThisIs-Developer" target="_blank">
-    <img src="/assets/hugging-face.svg" alt="Hugging Face" width="30" height="30"/>
-  </a>
-</p>
-
-
+<a href="https://dev.to/thisisdeveloper">
+  <img src="https://github.com/user-attachments/assets/626e3d1a-1695-4436-8de1-31b2484eae21" alt="Dev.to" height="35"/>
+</a>&nbsp;&nbsp;
+<a href="https://gitlab.com/ThisIs-Developer">
+  <img src="https://github.com/user-attachments/assets/f3f0ee7a-d80d-4508-9692-3ec78f75193e" alt="GitLab" height="35"/>
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/baivabsarkar/">
+  <img src="https://github.com/user-attachments/assets/f0b8f37c-b26d-4f99-9546-38e81d3cbb25" alt="LinkedIn" height="35"/>
+</a>&nbsp;&nbsp;
+<a href="https://medium.com/@baivabsarkar">
+  <img src="https://github.com/user-attachments/assets/10cb0656-8833-45bb-8383-b0f3bd4a6bc4" alt="Medium" height="35"/>
+</a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/1234567/thisis-developer">
+  <img src="https://github.com/user-attachments/assets/e47aac5f-405c-4514-bbf8-9194b970d0c9" alt="Stack Overflow" height="35"/>
+</a>&nbsp;&nbsp;
+<a href="https://twitter.com/thisisdeveloper">
+  <img src="https://github.com/user-attachments/assets/71d2959d-3ff9-4eac-ae97-95d8adcd0128" alt="Twitter" height="35"/>
+</a>&nbsp;&nbsp;
+<a href="https://huggingface.co/ThisIs-Developer">
+  <img src="https://github.com/user-attachments/assets/6d6d4fb6-ab63-4dd8-8916-81d98265fdfd" alt="Hugging Face" height="35"/>
+</a>
 
 ## My Opensource Story
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
