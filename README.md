@@ -22,7 +22,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/baivabsarkar/) for a mo
   <img src="https://github.com/user-attachments/assets/71d2959d-3ff9-4eac-ae97-95d8adcd0128" alt="Twitter" height="35"/>
 </a>&nbsp;&nbsp;
 <a href="https://huggingface.co/ThisIs-Developer">
-  <img src="https://github.com/user-attachments/assets/6d6d4fb6-ab63-4dd8-8916-81d98265fdfd" alt="Hugging Face" height="35"/>
+  <img src="https://github.com/user-attachments/assets/6d6d4fb6-ab63-4dd8-8916-81d98265fdfd" alt="Hugging Face" height="42"/>
 </a>
 
 ## My Opensource Story
