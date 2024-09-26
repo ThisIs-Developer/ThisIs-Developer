@@ -15,13 +15,13 @@ All of my projects are released as open-source on GitHub, this includes some of 
 - **[Llama 2 CSV Chatbot](https://github.com/ThisIs-Developer/Llama-2-CSV-Chatbot):** A conversational tool powered by a fine-tuned LLM known as **Llama-2 7B** work with CSV files.
 - **[Body Language Detection with MediaPipe, OpenCV](https://github.com/ThisIs-Developer/Body-Language-Detection-with-MediaPipe-and-OpenCV):** Developed a system to detect body language using the advanced capabilities of MediaPipe and OpenCV, analyze real-time insights into human gestures, postures, and facial expressions.
  
+## Blog Posts
+- [Getting Verified On GitHub!](https://dev.to/thisisdeveloper/secure-your-github-commits-with-verification-3hja) (2024-09-15)
+- [Llama2 Chatbot: Easy-to-Build?](https://dev.to/thisisdeveloper/llama-2-ggml-medical-chatbot-5043) (2024-04-11)
+- [OpenCV: The Enchanted Palette](https://dev.to/thisisdeveloper/opencvthe-enchanted-palette-part-2-424k) (2023-08-06)
+- [Elevate Your Sound Game: Recording and Processing Audio with Python!](https://dev.to/thisisdeveloper/record-and-process-audio-with-python-2a3b) (2023-07-31)
+- [Portfolio using JavaScript (ES6) Magic | Google Apps Script Sorcery](https://dev.to/thisisdeveloper/portfolio-thisis-developer-56bf) (2023-07-25), Find on [Medium.com](https://medium.com/@baivabsarkar/portfolio-using-javascript-es6-magic-google-apps-script-sorcery-85088b926527) too
 
-
-
-
-
-## ⚡One Line That Describes Me Best
-I am an enthusiastic individual who savors culinary adventures and occasionally delves into the world of coding. 😉
 
 ## 📫How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/baivabsarkar/)
