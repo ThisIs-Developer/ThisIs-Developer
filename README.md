@@ -46,31 +46,15 @@ All of my projects are released as open-source on GitHub, this includes some of 
 - [Elevate Your Sound Game: Recording and Processing Audio with Python!](https://dev.to/thisisdeveloper/record-and-process-audio-with-python-2a3b) (2023-07-31)
 - [Portfolio using JavaScript (ES6) Magic | Google Apps Script Sorcery](https://dev.to/thisisdeveloper/portfolio-thisis-developer-56bf) (2023-07-25), Find on [Medium.com](https://medium.com/@baivabsarkar/portfolio-using-javascript-es6-magic-google-apps-script-sorcery-85088b926527) too
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Recent Releases</h3>
-      <!-- recent_releases starts -->
-      <a href="https://github.com/ThisIs-Developer/NoteMarker-Extension/releases/tag/v2.0.6-firefox">v2.0.6-firefox</a> - NoteMarker (2024-09-20)<br>
-      <a href="https://github.com/ThisIs-Developer/NoteMarker-Extension/releases/tag/v2.0.3">v2.0.3</a> - NoteMarker (2024-09-18)<br>
-      <a href="https://github.com/ThisIs-Developer/NoteMarker-Extension/releases/tag/v0.1.0-beta">v0.1.0-beta</a> - NoteMarker (2024-09-16)<br>
-      <a href="https://github.com/ThisIs-Developer/Llama-2-GGML-CSV-Chatbot/releases/tag/v2.0.2.dev20240102">v2.0.3dev11012024</a> - Llama-2-GGML-Medical-Chatbot (2024-01-11)<br>
-      <a href="https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/releases/tag/v1.0.1.dev20230913">v1.0.1.dev20230913</a> - Llama-2-GGML-Medical-Chatbot (2024-12-30)<br>
-      <a href="https://github.com/ThisIs-Developer/Llama-2-GGML-CSV-Chatbot/releases/tag/v2.0.2.dev20240102">v2.0.2.dev20240102</a> - Llama-2-GGML-CSV-Chatbot (2024-01-02)<br>
-      <!-- recent_releases ends -->
-    </td>
-    <td valign="top" width="50%">
-      <h3>Blog</h3>
-      <ul>
-        <li><a href="https://dev.to/thisisdeveloper/secure-your-github-commits-with-verification-3hja">Getting Verified On GitHub!</a> (2024-09-15)</li>
-        <li><a href="https://dev.to/thisisdeveloper/llama-2-ggml-medical-chatbot-5043">Llama2 Chatbot: Easy-to-Build?</a> (2024-04-11)</li>
-        <li><a href="https://dev.to/thisisdeveloper/opencvthe-enchanted-palette-part-2-424k">OpenCV: The Enchanted Palette</a> (2023-08-06)</li>
-        <li><a href="https://dev.to/thisisdeveloper/record-and-process-audio-with-python-2a3b">Elevate Your Sound Game: Recording and Processing Audio with Python!</a> (2023-07-31)</li>
-        <li><a href="https://dev.to/thisisdeveloper/portfolio-thisis-developer-56bf">Portfolio using JavaScript (ES6) Magic | Google Apps Script Sorcery</a> (2023-07-25), Find on <a href="https://medium.com/@baivabsarkar/portfolio-using-javascript-es6-magic-google-apps-script-sorcery-85088b926527">Medium.com</a> too</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## Recent Releases
+
+- **NoteMarker**: [v2.0.6-firefox](https://github.com/ThisIs-Developer/NoteMarker-Extension/releases/tag/v2.0.6-firefox) - 2024-09-20
+- **NoteMarker**: [v2.0.3](https://github.com/ThisIs-Developer/NoteMarker-Extension/releases/tag/v2.0.3) - 2024-09-18
+- **NoteMarker**: [v0.1.0-beta](https://github.com/ThisIs-Developer/NoteMarker-Extension/releases/tag/v0.1.0-beta) - 2024-09-16
+- **Llama-2-GGML-Medical-Chatbot**: [v2.0.3dev11012024](https://github.com/ThisIs-Developer/Llama-2-GGML-CSV-Chatbot/releases/tag/v2.0.2.dev20240102) - 2024-01-11
+- **Llama-2-GGML-Medical-Chatbot**: [v1.0.1.dev20230913](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/releases/tag/v1.0.1.dev20230913) - 2024-12-30
+- **Llama-2-GGML-CSV-Chatbot**: [v2.0.2.dev20240102](https://github.com/ThisIs-Developer/Llama-2-GGML-CSV-Chatbot/releases/tag/v2.0.2.dev20240102) - 2024-01-02
+
 
 
 ![ThisIs-Developer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThisIs-Developer&theme=default&hide_border=true)
