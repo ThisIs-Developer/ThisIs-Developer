@@ -52,7 +52,7 @@ All of my projects are released as open-source on GitHub, this includes some of 
 - **NoteMarker**: [v2.0.3](https://github.com/ThisIs-Developer/NoteMarker-Extension/releases/tag/v2.0.3) - 2024-09-18
 - **NoteMarker**: [v0.1.0-beta](https://github.com/ThisIs-Developer/NoteMarker-Extension/releases/tag/v0.1.0-beta) - 2024-09-16
 - **Llama-2-GGML-Medical-Chatbot**: [v2.0.3dev11012024](https://github.com/ThisIs-Developer/Llama-2-GGML-CSV-Chatbot/releases/tag/v2.0.2.dev20240102) - 2024-01-11
-- **Llama-2-GGML-Medical-Chatbot**: [v1.0.1.dev20230913](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/releases/tag/v1.0.1.dev20230913) - 2024-12-30
+- **Llama-2-GGML-Medical-Chatbot**: [v1.0.1.dev20230913](https://github.com/ThisIs-Developer/Llama-2-GGML-Medical-Chatbot/releases/tag/v1.0.1.dev20230913) - 2023-09-13
 - **Llama-2-GGML-CSV-Chatbot**: [v2.0.2.dev20240102](https://github.com/ThisIs-Developer/Llama-2-GGML-CSV-Chatbot/releases/tag/v2.0.2.dev20240102) - 2024-01-02
 
 
