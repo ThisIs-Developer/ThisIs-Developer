@@ -15,10 +15,10 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/baivabsarkar/) for a mo
 <a href="https://huggingface.co/ThisIs-Developer">
   <img src="https://github.com/user-attachments/assets/6d6d4fb6-ab63-4dd8-8916-81d98265fdfd" alt="Hugging Face" height="41"/>
 </a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/1234567/thisis-developer">
+<a href="https://stackoverflow.com/users/23369171/thisis-developer">
   <img src="https://github.com/user-attachments/assets/e47aac5f-405c-4514-bbf8-9194b970d0c9" alt="Stack Overflow" height="35"/>
 </a>&nbsp;&nbsp;
-<a href="https://twitter.com/thisisdeveloper">
+<a href="https://x.com/thisisdeveloper">
   <img src="https://github.com/user-attachments/assets/71d2959d-3ff9-4eac-ae97-95d8adcd0128" alt="Twitter" height="35"/>
 </a>&nbsp;&nbsp;
 <a href="https://gitlab.com/ThisIs-Developer">
