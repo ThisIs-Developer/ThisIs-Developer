@@ -24,6 +24,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/baivabsarkar/) for a mo
 <a href="https://gitlab.com/ThisIs-Developer">
   <img src="https://github.com/user-attachments/assets/f3f0ee7a-d80d-4508-9692-3ec78f75193e" alt="GitLab" height="35"/>
 </a>
+
 ![icons8-medium](https://github.com/user-attachments/assets/eea08934-6454-4e65-8c93-de2309ca3f43)
 
 ## My Opensource Story
