@@ -25,8 +25,6 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/baivabsarkar/) for a mo
   <img src="https://github.com/user-attachments/assets/f3f0ee7a-d80d-4508-9692-3ec78f75193e" alt="GitLab" height="35"/>
 </a>
 
-![icons8-medium](https://github.com/user-attachments/assets/eea08934-6454-4e65-8c93-de2309ca3f43)
-
 ## My Opensource Story
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
 
